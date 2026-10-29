@@ -4,7 +4,7 @@ Roles accountable for customer or revenue growth across several funnel stages, f
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated October 28, 2026** · 12 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated October 29, 2026** · 12 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Growth Marketing Manager](https://www.titleless.fyi/companies/wagepoint/jobs/growth-marketing-manager/) | [Wagepoint](https://www.titleless.fyi/companies/wagepoint/) | Calgary, AB | Remote \(Canada\) | $115,000–$125,000 CAD per year | Sep 28, 2026 |
 | [Senior Director, Brand &amp; Growth Marketing](https://www.titleless.fyi/companies/hamilton-beach-brands/jobs/senior-director-brand-and-growth-marketing/) | Hamilton Beach Brands, Inc. | Glen Allen, VA | Hybrid | $176,470–$214,285 USD per year | Sep 24, 2026 |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated October 28, 2026; eligibility checked October 28, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated October 29, 2026; eligibility checked October 29, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 For every current growth marketing role, generalist and specialist, search [Titleless.fyi](https://www.titleless.fyi/).
 
