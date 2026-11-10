@@ -4,7 +4,7 @@ Roles accountable for customer or revenue growth across several funnel stages, f
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 9, 2026** · 3 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 10, 2026** · 3 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Senior PLG Digital Growth Manager](https://www.titleless.fyi/companies/kong/jobs/senior-plg-digital-growth-manager/) | [Kong](https://www.titleless.fyi/companies/kong/) | San Francisco, CA | Remote \(United States\) | $125,370–$179,100 USD per year | Oct 13, 2026 |
 | [Head of Growth](https://www.titleless.fyi/companies/sola-insurance/jobs/head-of-growth/) | Sola Insurance | Atlanta, GA | On-site | $160,000–$180,000 USD per year | Oct 6, 2026 |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated November 9, 2026; eligibility checked November 9, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 10, 2026; eligibility checked November 10, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 For every current growth marketing role, generalist and specialist, search [Titleless.fyi](https://www.titleless.fyi/).
 
