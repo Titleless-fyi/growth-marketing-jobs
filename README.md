@@ -2,18 +2,19 @@
 
 Roles accountable for customer or revenue growth across several funnel stages, from acquisition through activation, conversion and retention, usually driven by channel tests and experiments. Growth-titled roles whose main work is paid media, sales pipeline, lifecycle, marketing operations or SEO are listed in the specialist lists instead.
 
-Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
+Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description and how the role was classified. Apply goes straight to the employer's application.
 
-**Updated November 13, 2026** · 4 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 16, 2026** · 3 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
-| Job title | Company | Location | Work arrangement | Salary | Posted |
-| --- | --- | --- | --- | --- | --- |
-| [Marketing and Membership Growth Manager](https://www.titleless.fyi/companies/true-health/jobs/marketing-and-membership-growth-manager/) | [True Health](https://www.titleless.fyi/companies/true-health/) | Deerfield, IL | On-site | — | Oct 23, 2026 |
-| [Head of Growth](https://www.titleless.fyi/companies/workhero/jobs/head-of-growth/) | [WorkHero](https://www.titleless.fyi/companies/workhero/) | New York, NY | Remote \(United States\) | $160,000–$200,000 USD per year | Oct 20, 2026 |
-| [Senior PLG Digital Growth Manager](https://www.titleless.fyi/companies/kong/jobs/senior-plg-digital-growth-manager/) | [Kong](https://www.titleless.fyi/companies/kong/) | San Francisco, CA | Remote \(United States\) | $125,370–$179,100 USD per year | Oct 13, 2026 |
-| [Head of Growth](https://www.titleless.fyi/companies/sola-insurance/jobs/head-of-growth/) | Sola Insurance | Atlanta, GA | On-site | $160,000–$180,000 USD per year | Oct 6, 2026 |
+2 of 3 remote · 3 with employer-listed salary
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated November 13, 2026; eligibility checked November 13, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+| Job title | Company | Location | Work arrangement | Salary | Posted | Apply |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Head of Growth](https://www.titleless.fyi/companies/workhero/jobs/head-of-growth/) | [WorkHero](https://www.titleless.fyi/companies/workhero/) | New York, NY | Remote \(United States\) | $160,000–$200,000 USD per year | Oct 20, 2026 | [Apply](<https://jobs.ashbyhq.com/workhero/3f89a19a-e080-4744-b402-88a07d738663?utm_source=titleless_fyi&utm_medium=referral>) |
+| [Senior PLG Digital Growth Manager](https://www.titleless.fyi/companies/kong/jobs/senior-plg-digital-growth-manager/) | [Kong](https://www.titleless.fyi/companies/kong/) | San Francisco, CA | Remote \(United States\) | $125,370–$179,100 USD per year | Oct 13, 2026 | [Apply](<https://jobs.ashbyhq.com/kong/946ed309-53a6-475b-93fa-2e93579ce026?utm_source=titleless_fyi&utm_medium=referral>) |
+| [Head of Growth](https://www.titleless.fyi/companies/sola-insurance/jobs/head-of-growth/) | Sola Insurance | Atlanta, GA | On-site | $160,000–$180,000 USD per year | Oct 6, 2026 | [Apply](<https://jobs.ashbyhq.com/sola-insurance/815ea91a-6dbc-4eba-9461-f7e1ae031d2c?utm_source=titleless_fyi&utm_medium=referral>) |
+
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 16, 2026; eligibility checked November 16, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 For every current growth marketing role, generalist and specialist, search [Titleless.fyi](https://www.titleless.fyi/).
 
