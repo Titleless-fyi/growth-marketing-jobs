@@ -4,12 +4,15 @@ Roles accountable for customer or revenue growth across several funnel stages, f
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description and how the role was classified. Apply goes straight to the employer's application.
 
-**Updated November 19, 2026** · 132 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 20, 2026** · 135 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
-25 of 132 remote · 25 with employer-listed salary · median annual salary midpoint $175,000 USD (n=21)
+25 of 135 remote · 27 with employer-listed salary · median annual salary midpoint $175,000 USD (n=23)
 
 | Job title | Company | Location | Work arrangement | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Growth Marketing Lead](https://www.titleless.fyi/companies/lawhive/jobs/growth-marketing-lead-austin/) | Lawhive | Austin, TX | Hybrid | $140,000–$175,000 USD per year | Nov 19, 2026 | [Apply](<https://jobs.ashbyhq.com/lawhive/92322c95-7f63-42e7-bbd8-c59b6817b944?utm_source=titleless_fyi&utm_medium=referral>) |
+| [Growth Marketing Lead](https://www.titleless.fyi/companies/lawhive/jobs/growth-marketing-lead/) | Lawhive | New York, NY | Hybrid | $150,000–$200,000 USD per year | Nov 19, 2026 | [Apply](<https://jobs.ashbyhq.com/lawhive/f50ebad2-5dc6-499c-bb19-b546cfe025f0?utm_source=titleless_fyi&utm_medium=referral>) |
+| [Director of Growth Marketing](https://www.titleless.fyi/companies/paymitto/jobs/director-of-growth-marketing/) | PayMitto | Atlanta, GA | On-site | — | Nov 19, 2026 | [Apply](<https://paymitto.applytojob.com/apply/ikf6ARpc53/Director-Of-Growth-Marketing?utm_source=titleless_fyi&utm_medium=referral>) |
 | [Performance &amp; Growth Marketing Manager](https://www.titleless.fyi/companies/applovin/jobs/performance-and-growth-marketing-manager/) | [AppLovin](https://www.titleless.fyi/companies/applovin/) | Palo Alto, CA | On-site | — | Nov 18, 2026 | [Apply](<https://boards.greenhouse.io/applovin/jobs/4730231006?gh_jid=4730231006&utm_source=titleless_fyi&utm_medium=referral>) |
 | [Founding Growth Lead](https://www.titleless.fyi/companies/true-talent-solutions-partners/jobs/founding-growth-lead/) | True Talent Solutions Partners | New York, NY | On-site | $180,000–$200,000 USD per year | Nov 18, 2026 | [Apply](<https://jobs.ashbyhq.com/true-talent-solutions-partners/88048de7-1651-4d85-a551-209deb5f10a5?utm_source=titleless_fyi&utm_medium=referral>) |
 | [Growth Marketing Specialist, Social, Creators and Automation \(f/m/d\)](https://www.titleless.fyi/companies/ionos-en/jobs/growth-marketing-specialist-social-creators-and-automation-f-m-d/) | IONOS EN | Philadelphia, PA | On-site | — | Nov 17, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/ionos2/jobs/5040700101?utm_source=titleless_fyi&utm_medium=referral>) |
@@ -143,7 +146,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Organic Growth &amp; Partnerships Lead](https://www.titleless.fyi/companies/raydar/jobs/organic-growth-and-partnerships-lead/) | Raydar | New York, NY | On-site | — | Aug 21, 2026 | [Apply](<https://jobs.workable.com/view/bMJq6m4o9Xvq8tyVvitPXg/organic-growth-%26-partnerships-lead-in-new-york-at-raydar?utm_source=titleless_fyi&utm_medium=referral>) |
 | [Organic Growth Marketing Manager](https://www.titleless.fyi/companies/phoenix/jobs/organic-growth-marketing-manager/) | Phoenix | Toronto, ON | On-site | $90,000–$115,000 CAD per year | Jul 3, 2026 | [Apply](<https://jobs.ashbyhq.com/phoenix/cdad6420-7387-423c-9886-57c27f93d16b?utm_source=titleless_fyi&utm_medium=referral>) |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated November 19, 2026; eligibility checked November 19, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 20, 2026; eligibility checked November 20, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 For every current growth marketing role, generalist and specialist, search [Titleless.fyi](https://www.titleless.fyi/).
 
